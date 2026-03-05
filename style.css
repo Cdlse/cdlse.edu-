@@ -28,7 +28,7 @@ font-family: Canela Deck Web, GT America Standard Regular;
 
   .H1{
     padding-top: 30px;
-    font-size: clamp(15px, 5vw, 60px);
+    font-size: clamp(39px, 5vw, 60px);
     max-width: 900px;
     opacity: 0;
     animation: fadeIn 1.5s ease forwards;
@@ -274,4 +274,5 @@ img {
     height: auto;
 
 }
+
 
