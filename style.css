@@ -2,7 +2,7 @@
 
 body{
  overflow-x: hidden;
-  background: #FFFFFF;
+background: #FFFFFF;
 background: -moz-linear-gradient(-45deg, #FFFFFF 0%, #CBCBCB 55%, #757575 100%);
 background: -webkit-linear-gradient(-45deg, #FFFFFF 0%, #CBCBCB 55%, #757575 100%);
 background: linear-gradient(135deg, #FFFFFF 0%, #CBCBCB 55%, #757575 100%); 
@@ -28,7 +28,7 @@ font-family: Canela Deck Web, GT America Standard Regular;
 
   .H1{
     padding-top: 30px;
-    font-size: clamp(38px, 5vw, 60px);
+    font-size: clamp(15px, 5vw, 60px);
     max-width: 900px;
     opacity: 0;
     animation: fadeIn 1.5s ease forwards;
@@ -274,3 +274,4 @@ img {
     height: auto;
 
 }
+
