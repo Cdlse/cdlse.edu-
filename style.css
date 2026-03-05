@@ -20,7 +20,7 @@ font-family: Canela Deck Web, GT America Standard Regular;
 
   .logo{
     font-family: Old English Text MT;
-    font-size: clamp(34px, 5vw, 40px);
+    font-size: clamp(39px, 5vw, 40px);
     text-decoration: none; 
     font-weight: 100;
     
@@ -272,4 +272,5 @@ box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.43);
 img {
     max-width: 100%;
     height: auto;
+
 }
